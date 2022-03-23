@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homework"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_checklist_rtl_48"
+        android:title="@string/homework"/>
+    <item
+        android:id="@+id/scheduler"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_edit_calendar_48"
+        android:title="@string/schedule"/>
+    <item
+        android:id="@+id/teamScheduler"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_calendar_month_48"
+        android:title="@string/teamSchedule"/>
+    <item
+        android:id="@+id/myPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_box_48"
+        android:title="@string/my_page"/>
+</menu>
+

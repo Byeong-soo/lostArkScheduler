@@ -1,0 +1,37 @@
+<resources>
+    
+<!--메뉴바-->
+    <string name="homework">숙제</string>
+    <string name="schedule">스케줄</string>
+    <string name="teamSchedule">공대 스케줄</string>
+    <string name="my_page">마이페이지</string>
+
+<!--타이틀-->
+    <string name="app_name">우연히만난사이</string>
+
+
+    <string name="page_title">장바구Needs</string>
+    <string name="login">로그인</string>
+    <string name="back">돌아가기</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="password_check">비밀번호 확인</string>
+    <string name="email">이메일</string>
+    <string name="own_check">본인확인</string>
+    <string name="name">이름</string>
+    <string name="profile_image">프로필 사진</string>
+    <string name="birthday">생일</string>
+    <string name="gender">성별</string>
+    <string name="join">회원가입</string>
+    
+    <string name="notification">알림</string>
+    <string name="search">검색</string>
+    <string name="favorite">목록</string>
+    <string name="account">계정관리</string>
+    <string name="join_explain">아이디가 없으신가요?</string>
+    <string name="continue1">계속하기</string>
+    <string name="duple_check">중복확인</string>
+    <string name="essential">필수사항</string>
+    <string name="optional">선택사항</string>
+   
+</resources>
